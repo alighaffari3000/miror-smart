@@ -34,4 +34,5 @@ sudo ./mirror-smart.sh
 ```
 
 ---
-*Main description is in English as requested.*
+
+
