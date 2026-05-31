@@ -2,6 +2,20 @@
 
 An intelligent and high-performance script to automatically detect, test, and configure the best Ubuntu mirrors for your system.
 
+> [!IMPORTANT]
+>
+> ### 🚀 New Version Available / نسخه جدید منتشر شد
+>
+> 🇮🇷 نسخه جدیدتر و کامل‌تر این پروژه با قابلیت **مدیریت Mirror** و **تنظیم خودکار DNS** منتشر شده است:
+>
+> 👉 https://github.com/alighaffari3000/DNS-Mirror-Helper
+>
+> 🇬🇧 A newer and more advanced version of this project is available, featuring **Mirror Management** and **Automatic DNS Configuration**:
+>
+> 👉 https://github.com/alighaffari3000/DNS-Mirror-Helper
+
+
+
 ## Overview
 
 This script is specifically designed to help users find the fastest available Ubuntu repositories. It is particularly useful when **international internet access is restricted, unstable, or "nationalized" (Intranet/Melli)**, making global mirrors unreachable. By testing local (Iranian) and global mirrors, it ensures you can always update your system at the highest possible speed.
